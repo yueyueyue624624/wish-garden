@@ -1,0 +1,19 @@
+{
+  "name": "wish-garden-mvp",
+  "version": "2.0.0",
+  "private": true,
+  "packageManager": "pnpm@11.25.0",
+  "description": "Wish Garden 愿望花园 — 私密生日愿望清单 MVP",
+  "type": "module",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --host 0.0.0.0"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.76.1"
+  },
+  "devDependencies": {
+    "vite": "^7.1.11"
+  }
+}

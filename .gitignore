@@ -1,0 +1,10 @@
+data/
+.test-data/
+.env
+.env.local
+node_modules/
+dist/
+*.log
+design-reference-*.png
+preview-*.jpg
+
